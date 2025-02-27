@@ -1,0 +1,2 @@
+/home/amaterasu/PROJECTS/weather-app/android/app/.cxx/Debug/j3q5e271/x86/CMakeFiles/edit_cache.dir
+/home/amaterasu/PROJECTS/weather-app/android/app/.cxx/Debug/j3q5e271/x86/CMakeFiles/rebuild_cache.dir

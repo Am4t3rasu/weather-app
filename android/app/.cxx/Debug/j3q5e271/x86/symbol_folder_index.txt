@@ -1,0 +1,1 @@
+/home/amaterasu/PROJECTS/weather-app/build/app/intermediates/cxx/Debug/j3q5e271/obj/x86
